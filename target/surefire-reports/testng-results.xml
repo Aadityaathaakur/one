@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+    <line>
+      <![CDATA[Congratulations! You must have the proper credentials.]]>
+    </line>
+  </reporter-output>
+  <suite name="testLink.TestClass" duration-ms="27612" started-at="2018-07-12T04:25:00Z" finished-at="2018-07-12T04:25:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="27612" started-at="2018-07-12T04:25:00Z" finished-at="2018-07-12T04:25:28Z">
+      <class name="testLink.TestClass">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testLink.TestClass@64616ca2]" name="launch" is-config="true" duration-ms="11337" started-at="2018-07-12T09:55:00Z" finished-at="2018-07-12T09:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="test001_basic_auth_test()[pri:0, instance:testLink.TestClass@64616ca2]" name="test001_basic_auth_test" duration-ms="221" started-at="2018-07-12T09:55:12Z" finished-at="2018-07-12T09:55:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Congratulations! You must have the proper credentials.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test001_basic_auth_test -->
+        <test-method status="PASS" signature="test002_Check_for_Broken_Image()[pri:0, instance:testLink.TestClass@64616ca2]" name="test002_Check_for_Broken_Image" duration-ms="484" started-at="2018-07-12T09:55:12Z" finished-at="2018-07-12T09:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test002_Check_for_Broken_Image -->
+        <test-method status="PASS" signature="test003_aExit_Intent()[pri:0, instance:testLink.TestClass@64616ca2]" name="test003_aExit_Intent" duration-ms="2037" started-at="2018-07-12T09:55:12Z" finished-at="2018-07-12T09:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test003_aExit_Intent -->
+        <test-method status="PASS" signature="test003_bExit_Intent_Dissappear()[pri:0, instance:testLink.TestClass@64616ca2]" name="test003_bExit_Intent_Dissappear" duration-ms="3525" started-at="2018-07-12T09:55:14Z" finished-at="2018-07-12T09:55:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test003_bExit_Intent_Dissappear -->
+        <test-method status="PASS" signature="test004_Sortable_Data_Tables()[pri:0, instance:testLink.TestClass@64616ca2]" name="test004_Sortable_Data_Tables" duration-ms="373" started-at="2018-07-12T09:55:18Z" finished-at="2018-07-12T09:55:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test004_Sortable_Data_Tables -->
+        <test-method status="PASS" signature="test005_authenticate()[pri:0, instance:testLink.TestClass@64616ca2]" name="test005_authenticate" duration-ms="370" started-at="2018-07-12T09:55:18Z" finished-at="2018-07-12T09:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test005_authenticate -->
+        <test-method status="PASS" signature="test006_authenticate_Invalid()[pri:0, instance:testLink.TestClass@64616ca2]" name="test006_authenticate_Invalid" duration-ms="630" started-at="2018-07-12T09:55:19Z" finished-at="2018-07-12T09:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test006_authenticate_Invalid -->
+        <test-method status="PASS" signature="test007_authenticate_valid()[pri:0, instance:testLink.TestClass@64616ca2]" name="test007_authenticate_valid" duration-ms="1809" started-at="2018-07-12T09:55:19Z" finished-at="2018-07-12T09:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test007_authenticate_valid -->
+        <test-method status="PASS" signature="test008_test_For_3Images_Displayed()[pri:0, instance:testLink.TestClass@64616ca2]" name="test008_test_For_3Images_Displayed" duration-ms="269" started-at="2018-07-12T09:55:21Z" finished-at="2018-07-12T09:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test008_test_For_3Images_Displayed -->
+        <test-method status="PASS" signature="test009_Hover_mouse_over()[pri:0, instance:testLink.TestClass@64616ca2]" name="test009_Hover_mouse_over" duration-ms="148" started-at="2018-07-12T09:55:21Z" finished-at="2018-07-12T09:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test009_Hover_mouse_over -->
+        <test-method status="PASS" signature="test010_WYSIWYG_Editor_Visible()[pri:0, instance:testLink.TestClass@64616ca2]" name="test010_WYSIWYG_Editor_Visible" duration-ms="1266" started-at="2018-07-12T09:55:21Z" finished-at="2018-07-12T09:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test010_WYSIWYG_Editor_Visible -->
+        <test-method status="PASS" signature="test011_WYSIWYG_Editor()[pri:0, instance:testLink.TestClass@64616ca2]" name="test011_WYSIWYG_Editor" duration-ms="4796" started-at="2018-07-12T09:55:23Z" finished-at="2018-07-12T09:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test011_WYSIWYG_Editor -->
+        <test-method status="PASS" signature="test012_Status_Codes()[pri:0, instance:testLink.TestClass@64616ca2]" name="test012_Status_Codes" duration-ms="334" started-at="2018-07-12T09:55:27Z" finished-at="2018-07-12T09:55:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test012_Status_Codes -->
+      </class> <!-- testLink.TestClass -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testLink.TestClass -->
+</testng-results>
